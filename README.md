@@ -3,16 +3,17 @@
 
 Proof for algorithms (basic algorithms, ML/DL, etc.)
 
-<h1><b>Contents</b></h1> (The ideas are derived from Machine learning with PyTorch and Scikit-Learn by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili)
+<h1><b>Contents</b></h1> 
+(The ideas are derived from Machine learning with PyTorch and Scikit-Learn by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili)
 
-1. Why does the perceptron converge when the dataset is linearly separable?
-2. In the perceptron algorithm, why do we use  y - hat{y}  instead of hat{y} - y ?
+1. <b>Why does the perceptron converge when the dataset is linearly separable?</b>
+2. <b>In the perceptron algorithm, why do we use  y - hat{y}  instead of hat{y} - y ?</b>
 3. Upcoming (p.85: Why does the MSE(Mean Squared Error) increase with each epoch when the learning rate is large?)
 4. Upcoming (p.86: Why does standardizing the original dataset help with gradient descent learning?)
-5. Why is ADALINE called a full-batch gradient descent?
-6. The relationship between Logit function and Z = WX+b
-7. How to get logistic sigmoid function from logit function?
-8. Why do we use 0.5 as threshold of predition in ADALINE algorithm?
+5. <b>Why is ADALINE called a full-batch gradient descent?</b>
+6. <b>The relationship between Logit function and Z = WX+b</b>
+7. <b>How to get logistic sigmoid function from logit function?</b>
+8. <b>Why do we use 0.5 as threshold of predition in ADALINE algorithm?</b>
 9. Upcoming (p.87: Why does MSE not become 0 even if all samples are perfectly classified?)
 10. ...
 
