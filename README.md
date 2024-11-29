@@ -1,4 +1,4 @@
-# Mathematical Proofs in ML/DL for everyone (Especially Korean)
+# Mathematical Proofs in ML/DL for everyone (Especially for Korean)
 # 머신러닝/딥러닝의 수학적 증명
 
 Proof for algorithms (basic algorithms, ML/DL, etc.)
