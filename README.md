@@ -20,4 +20,4 @@ Proof for algorithms (basic algorithms, ML/DL, etc.)
 ***CAUTION***
 1. 대부분의 증명은 영어로 되어 있으며 간혹 답답한 마음에 한글로 작성했습니다.
 2. 수학적으로 증명 표기가 정확하지 않을 수 있습니다. (+영어 표현이 이상할 수 있습니다 ㅠ)
-3. 오류나 오타 등은 언제든지 연락주세요. (chb3327@yonsei.ac.kr)
+3. 오류나 오타 등은 언제든지 연락주세요. (chb3327@gmail.com)
