@@ -6,6 +6,8 @@ Proof for algorithms (basic algorithms, ML/DL, etc.)
 <h1><b>Contents</b></h1> 
 (The ideas are derived from Machine learning with PyTorch and Scikit-Learn by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili)
 
+<b>You can find all of these works in discussion page. </b>
+
 1. <b>Why does the perceptron converge when the dataset is linearly separable?</b>
 2. <b>In the perceptron algorithm, why do we use  y - hat{y}  instead of hat{y} - y ?</b>
 3. Upcoming (p.85: Why does the MSE(Mean Squared Error) increase with each epoch when the learning rate is large?)
