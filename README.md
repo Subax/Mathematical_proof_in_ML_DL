@@ -4,7 +4,6 @@
 Proof for algorithms (basic algorithms, ML/DL, etc.)
 
 <h1><b>Contents</b></h1> 
-(The ideas are derived from Machine learning with PyTorch and Scikit-Learn by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili)
 
 <b>You can find all of these works in discussion page. </b>
 
