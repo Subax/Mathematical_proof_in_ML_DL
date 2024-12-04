@@ -5,7 +5,7 @@ Proof for algorithms (basic algorithms, ML/DL, etc.)
 
 <h1><b>Contents</b></h1> 
 
-<b>You can find all of these works in discussion page. </b>
+<h2><b>You can find all of these works in discussion page. </b></h2>
 
 1. <b>Why does the perceptron converge when the dataset is linearly separable?</b>
 2. <b>In the perceptron algorithm, why do we use  y - hat{y}  instead of hat{y} - y ?</b>
