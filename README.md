@@ -16,7 +16,10 @@ Proof for algorithms (basic algorithms, ML/DL, etc.)
 7. <b>How to get logistic sigmoid function from logit function?</b>
 8. <b>Why do we use 0.5 as threshold of predition in ADALINE algorithm?</b>
 9. Upcoming (p.87: Why does MSE not become 0 even if all samples are perfectly classified?)
-10. ...
+10. Hidden content
+11. Hidden content
+12. <b>The difference between row-wise and column-wise preprocessing</b>
+13. <b>Introduction of Lasso/Ridge regularization</b>
 
 ***CAUTION***
 1. 대부분의 증명은 영어로 되어 있으며 간혹 답답한 마음에 한글로 작성했습니다.
